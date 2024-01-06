@@ -1,0 +1,8 @@
+Diagnostics:
+  Suppress:
+    - drv_invalid_value
+---
+CompileFlags:
+  Remove:
+    - -meabi
+    - -mhard-float
